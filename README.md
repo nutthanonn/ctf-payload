@@ -1,2 +1,1 @@
 # Hackthebox CheatSheet
-# hackthebox-cheatsheet
